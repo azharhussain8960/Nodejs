@@ -23,4 +23,7 @@ fs.unlink("txt.txt").then(()=>{
     console.log("File Deleted");
 }).catch((err)=>{
     console.log("Error");
+}).finally(()=>{
+    console.log("hello");
+    
 })

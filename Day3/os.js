@@ -57,3 +57,4 @@ console.log(os.tmpdir());
 //os.totalmem()
 console.log(os.totalmem());
 console.log(os.networkInterfaces);
+
